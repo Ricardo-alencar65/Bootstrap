@@ -1,0 +1,21 @@
+.col{
+    border: 2px solid black;
+}
+i{
+    padding: 150px;
+}
+p{
+    text-align: center;
+}
+.bi-cart{
+    font-size: 40px;
+    color: aquamarine;
+}
+.bi-credit-card{
+    font-size: 60px;
+    color: aqua;
+}
+.bi-check-lg{
+    font-size: 80px;
+    color: rgb(22, 150, 224);
+}
